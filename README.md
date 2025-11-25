@@ -95,7 +95,7 @@ erp-demo/
 1. **Clone the repository** into your web server directory (e.g., `htdocs` for XAMPP):
 
 ```bash
-git clone [<repository_url>](https://github.com/cycotechnolgies/erp-demo/)
+git clone https://github.com/cycotechnolgies/erp-demo.git
 ```
 ---
 
@@ -118,3 +118,27 @@ $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
 ```
+---
+# Screenshots
+
+<img width="1364" height="605" alt="image" src="https://github.com/user-attachments/assets/794dc4f2-aec2-47b7-9923-a795b18f4ff6" />
+
+<img width="1360" height="609" alt="image" src="https://github.com/user-attachments/assets/66f61e6c-e981-408c-93d6-19a368be59da" />
+
+<img width="1342" height="581" alt="image" src="https://github.com/user-attachments/assets/a0b1cce0-f438-488c-a3b8-560be3829724" />
+
+<img width="1351" height="513" alt="image" src="https://github.com/user-attachments/assets/209fdd70-8a56-4220-ad1b-743abdaa56dc" />
+
+<img width="1316" height="576" alt="image" src="https://github.com/user-attachments/assets/29b04678-930a-435f-ab3b-5636048f18e1" />
+
+<img width="1318" height="586" alt="image" src="https://github.com/user-attachments/assets/5d8bc919-f87d-4bb4-a8c8-d1afce5c9eaa" />
+
+<img width="1238" height="589" alt="image" src="https://github.com/user-attachments/assets/8ce7d9eb-7ebc-471c-b132-13499fc8564d" />
+
+
+
+
+
+
+
+
