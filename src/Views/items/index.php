@@ -31,9 +31,6 @@
                     <a class="nav-link active" href="/erp-demo/index.php?controller=items&action=index">Items</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/erp-demo/index.php?controller=invoices&action=index">Invoices</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="/erp-demo/index.php?controller=reports&action=index">Reports</a>
                 </li>
             </ul>
