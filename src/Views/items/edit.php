@@ -23,7 +23,6 @@
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item"><a class="nav-link" href="/erp-demo/index.php?controller=customers&action=index">Customers</a></li>
                 <li class="nav-item"><a class="nav-link active" href="/erp-demo/index.php?controller=items&action=index">Items</a></li>
-                <li class="nav-item"><a class="nav-link" href="/erp-demo/index.php?controller=invoices&action=index">Invoices</a></li>
                 <li class="nav-item"><a class="nav-link" href="/erp-demo/index.php?controller=reports&action=index">Reports</a></li>
             </ul>
         </div>
